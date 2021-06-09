@@ -1,5 +1,8 @@
 # Oxygen LMS
 
+![Oxygen Logo Github](https://user-images.githubusercontent.com/60370016/121431623-7f847d80-c92e-11eb-8b4a-3a16cb1bd572.png)
+
+
 Oxygen LMS is an efficient platform that connects universities and students developed by LINQ. This LMS will get a solutions for Universities’ curriculum management and student management.
 
 [Test Version](https://sandbox.op.patten.edu/)
