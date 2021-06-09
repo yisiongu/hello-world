@@ -1,84 +1,61 @@
 # Oxygen LMS
 
-One Paragraph of project description goes here
+Oxygen LMS is an efficient platform that connects universities and students developed by LINQ. This LMS will get a solutions for Universities’ curriculum management and student management.
+
+[Test Version](https://sandbox.op.patten.edu/)
+
+<img width="2040" alt="Oxygen Dashborad" src="https://user-images.githubusercontent.com/60370016/121423623-53b0ca00-c925-11eb-814f-c75febd68c5c.png">
+
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This instructions will guide to setting up Oxygen project locally.
+To get a local copy up and running follow these steps.
 
-### Prerequisites
+### Installation
 
-What things you need to install the software and how to install them
+1. To start, run
 
-```
-Give examples
-```
+2. ```cd Oxygen-theme```
 
-### Installing
+3. ```yarn```
 
-A step by step series of examples that tell you how to get a development env running
+4. ```yarn run start```
 
-Say what the step will be
+5. navigate your browser to ```http://localhost:3000/pages/profile```
 
-```
-Give the example
-```
+wait for 30 sec for its first time loadup
 
-And repeat
+## LMS Site
 
-```
-until finished
-```
+### Login Page
+Currently it is working on demo test, offical version will be coming soon.
 
-End with an example of getting some data out of the system or using it for a little demo
+<img width="2037" alt="Oxygen Login" src="https://user-images.githubusercontent.com/60370016/121424205-f10bfe00-c925-11eb-9b1e-afe747212656.png">
 
-## Running the tests
+### Course Modules
+<img width="2037" alt="Oxygen Course Modules" src="https://user-images.githubusercontent.com/60370016/121424386-20bb0600-c926-11eb-9f44-9f3969dad22e.png">
 
-Explain how to run the automated tests for this system
+### Chat & Live Study
+<img width="2041" alt="Live Study   Chat" src="https://user-images.githubusercontent.com/60370016/121424554-4f38e100-c926-11eb-819d-26ee247d040b.png">
 
-### Break down into end to end tests
+## Student Profile
+<img width="2041" alt="Profile" src="https://user-images.githubusercontent.com/60370016/121424686-742d5400-c926-11eb-8876-f8d2bcef0325.png">
 
-Explain what these tests test and why
+## Team
 
-```
-Give an example
-```
+[Ethan Wang] (https://github.com/aertoria) 
 
-### And coding style tests
+[Cheng Ma] (https://github.com/cma00000)
 
-Explain what these tests test and why
+[Eric Liu] (https://github.com/eric1932)
 
-```
-Give an example
-```
+[Yision Gu] (https://github.com/yisiongu)
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the LINQ.AI
 
 ## Acknowledgments
 
